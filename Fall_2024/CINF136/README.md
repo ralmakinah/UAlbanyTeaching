@@ -2,16 +2,18 @@
 
 **Semester:** Fall 2024
 
-**Day/Time:** In person – Tuesdays and Thursdays 10:30 AM - 11:50 AM
+**Day/Time:** In person – Tuesdays and Thursdays 1:30 PM - 2:50 PM
 
-**Location:** Massry School of Business 119
+**Location:** ETEC - 190
 
-**Instructor:** M. Abdullah Canbaz, Ph.D. *\[ he/him/his \]*
+**Instructor:** Rawan AlMakinah *\[ She/her/hers \]*
 
-**Contact:** (518) 442 – 5258
+**Contact:** (518) 545 – 9363
 
-**Office Location and Hours:** Tuesdays 12:30 pm – 2:00 pm (via Zoom)
+**Office Location and Hours:** Wednesdays 2:00 pm – 3:30 pm (via Zoom)
 or by appointment
+
+
 
 
 
