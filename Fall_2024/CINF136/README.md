@@ -94,7 +94,7 @@ By achieving these outcomes, students will gain a foundational understanding of 
 
 The required text for this course is:
 
-<img src="Fall_2024/CINF136/textbook.png" style="width:1.5in;height:2.35in"
+<img src="textbook.png" style="width:1.5in;height:2.35in"
 alt="Artificial Intelligence Basics: A... by Taulli, Tom" />
 
 - ***Taulli, Tom, Artificial Intelligence Basics: A Non-technical
