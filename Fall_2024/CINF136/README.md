@@ -260,12 +260,12 @@ opportunity, with the chance to earn bonus credits upon completion.**
 | **Category**                 | **Criteria**                   | **Percentage** | **Meeting with Instructor**     | **Due Date**                   |
 |------------------------------|--------------------------------|----------------|---------------------------------|--------------------------------|
 | White Paper Proposal         | Clarity of research question   | 20%            | 2<sup>nd</sup> week of Classes  | 4<sup>th</sup> Week of Classes |
-|                              | Relevance to the course        | 15%            |                                 |                                |
+|                              | Relevance to the course        | 20%            |                                 |                                |
 |                              | Feasibility of the research    | 20%            |                                 |                                |
-|                              | Literature review              | 15%            |                                 |                                |
+|                              | Literature review              | 20%            |                                 |                                |
 |                              | Research methodology           | 20%            |                                 |                                |
-| White Paper Draft            | Organization and structure     | 20%            | 6<sup>th</sup> Week of Classes  | 9<sup>th</sup> Week of Classes |
-|                              | Content and analysis           | 30%            |                                 |                                |
+| White Paper Draft            | Organization and structure     | 30%            | 6<sup>th</sup> Week of Classes  | 9<sup>th</sup> Week of Classes |
+|                              | Content and analysis           | 40%            |                                 |                                |
 |                              | Writing style and presentation | 15%            |                                 |                                |
 |                              | References and citations       | 15%            |                                 |                                |
 | White Paper Final Submission | Originality and contribution   | 20%            | 12<sup>th</sup> Week of Classes | Finals Week                    |
