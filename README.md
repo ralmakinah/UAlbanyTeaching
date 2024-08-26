@@ -1,3 +1,0 @@
-# UAlbanyTeaching
-
-Welcome ! 
