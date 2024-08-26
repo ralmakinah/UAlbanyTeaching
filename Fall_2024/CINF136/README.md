@@ -8,7 +8,6 @@
 
 **Instructor:** Rawan AlMakinah *\[ She/her/hers \]*
 
-**Contact:** (518) 545 – 9363
 
 **Office Location and Hours:** Wednesdays 2:00 pm – 3:30 pm (via Zoom)
 or by appointment
