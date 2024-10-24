@@ -297,7 +297,7 @@ attention to your Brightspace course outline and announcements.**
 |          | 10-Oct                |                                                             | Convolutional neural networks, Recurrent neural networks     |                                  |
 | 8        | ***15-Oct***         | ***Fall Break***                                           |                                                              |                                  |
 |          | 17-Oct                |                                                             | Training and evaluating deep learning models                 |                                  |
-| 9        | 22-Oct                | M5: Robotic Process Automation (RPA)                        | What is RPA?, The benefits of RPA                            |                                  |
+| 9        | 22-Oct                | M5: Robotic Process Automation (RPA)                        | <a href="https://arwan90.github.io/UAlbanyTeaching/Fall_2024/CINF135/Slides/L6-RPAs.slides#/">What is RPA?, The benefits of RPA </a>                            |                                  |
 |          | 24-Oct                |                                                             | How to implement RPA, RPA use cases                          |                                  |
 | 10       | 29-Oct                | M6: Physical Robots                                         | What are physical robots?, Different types of physical robots |                                  |
 |          | 31-Oct                |                                                             | Programming physical robots, Physical robot applications     | Lecture at ETEC, Lab             |
