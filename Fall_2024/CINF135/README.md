@@ -306,8 +306,7 @@ attention to your Brightspace course outline and announcements.**
 | 12       | 12-Nov                |                                                             | NLP use cases                                                |                                  |
 |          | 14-Nov                | M8: Implementation of AI                                    | <a href="https://arwan90.github.io/UAlbanyTeaching/Fall_2024/CINF135/Slides/L9-AI_imp.slides#/">Developing and deploying AI solutions</a>                        |                                  |
 | 13       | 19-Nov                |                                                             | AI project management, AI governance                         | Lecture at ETEC, Lab             |
-|          | 21-Nov                | M9: The Future of AI                                        | <a href="https://arwan90.github.io/UAlbanyTeaching/Fall_2024/CINF135/Slides/L10-Future.slides#/
-">Emerging trends in AI, The ethical implications of AI</a>        |                                  |
+|          | 21-Nov                | M9: The Future of AI                                        | <a href="https://arwan90.github.io/UAlbanyTeaching/Fall_2024/CINF135/Slides/L10-Future.slides#/">Emerging trends in AI, The ethical implications of AI</a>        |                                  |
 | 14       | 26-Nov                |                                                             | The impact of AI on society, Preparing for the future of AI  |                                  |
 |          | ***28-Nov***         | ***Thanksgiving,  No Class***                              |                                                              |                                  |
 | 15       | 3-Dec                 | **Showcase  Day** | **All Students are expected to participate**               |                                  |
