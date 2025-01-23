@@ -9,7 +9,7 @@
 **Instructor:** Rawan AlMakinah *\[ She/her/hers \]*
 
 
-**Office Location and Hours:** Mondat 4:00 pm – 5:30 pm (via Zoom)
+**Office Location and Hours:** Monday 4:00 pm – 5:30 pm (via Zoom)
 or by appointment
 
 
@@ -174,11 +174,11 @@ such as a medical certificate, is provided.
 |                                             | iRAT Quizzes                                |                                   | 60%                        | 24%                           |
 |                                             | Individual Assignments                      |                                   | 40%                        | 16%                           |
 | **Team Grades**                             |                                             | 40%                               |                            |                               |
-|                                             | gRAT Quizzes                                |                                   | 50%                        | 20%                           |
-|                                             | Team Exercises                              |                                   | 50%                        | 20%                           |
+|                                             | Teams in-Class Activities                                |                                   | 50%                        | 20%                           |
+|                                             | Teams Lab Work                              |                                   | 50%                        | 20%                           |
 | **Class Participation and Peer Evaluation** |                                             | 10%                               |                            |                               |
-|                                             | Peer Evaluation                             |                                   | 60%                        | 6%                            |
-|                                             | Class Participation (Instructor Determined) |                                   | 40%                        | 4%                            |
+|                                             | Class Participation (Instructor Determined)                             |                                   | 60%                        | 6%                            |
+|                                             | Attendance |                                   | 40%                        | 4%                            |
 | **Showcase Presentation**                   |                                             | 10%                               | 100%                       | 10%                           |
 | **Honors Requirement (Bonus for Others)**   |                                             | 5 %                               |                            |                               |
 |                                             | White Paper Proposal                        |                                   | 25%                        | 1%                            |
@@ -237,39 +237,39 @@ opportunity, with the chance to earn bonus credits upon completion.**
 **\*\* This is a tentative schedule and subject to change. Please pay
 attention to your Brightspace course outline and announcements.**
 
-| **Week** | **Date**              | **Module**                                                  | **Topics**                                                   | **Notes**                        |
-| -------- | --------------------- | ----------------------------------------------------------- | ------------------------------------------------------------ | -------------------------------- |
-| 1        | 27-Aug                | M1: AI Foundations                                          | <a href="https://arwan90.github.io/UAlbanyTeaching/Fall_2024/CINF135/Slides/L1-Introduction.slides#/"> Introduction, What is AI?</a>                                   |                                  |
-|          | 29-Aug                |                                                             | <a href="https://arwan90.github.io/UAlbanyTeaching/Fall_2024/CINF135/Slides/L2_History_and_Types_of_AI.slides#/">A brief history of AI, </a>                 |                                  |
-| 2        | 3-Sep                 |                                                             | Different types of AI                                          |                                  |
-|          | 5-Sep                 |                                                    | The potential of AI                                 |                                  |
-| 3        | 10-Sep                |  M2: Data                                                            | <a href="https://arwan90.github.io/UAlbanyTeaching/Fall_2024/CINF135/Slides/L3-Data.slides#/">The importance of data in AI, Different types of data</a>                                      | Lecture at ETEC, Lab             |
-|          | 12-Sep                |                                                             | Collecting and preparing data for AI                         |                                  |
-| 4        | 17-Sep                |                                                             | Data ethics and privacy                                      |                                  |
-|          | 19-Sep                | M3: Machine Learning                                        | <a href="https://arwan90.github.io/UAlbanyTeaching/Fall_2024/CINF135/Slides/L4-AIvsML.slides#/">What is machine learning?</a>                                    |                                  |
-| 5        | 24-Sep                |                                                             | Different types of machine learning                          | Lecture at ETEC, Lab             |
-|          | 26-Sep                |                                                             | Common machine learning algorithms                           |                                  |
-| 6        | 1-Oct                 |                                                             | Evaluating machine learning models                           |                                  |
-|          | 3-Oct                 | M4: Deep Learning                                           | <a href="https://arwan90.github.io/UAlbanyTeaching/Fall_2024/CINF135/Slides/L5-DeepLearning.slides#/">What is deep learning?</a>                                       |                                  |
-| 7        | 8-Oct                 |                                                             | Neural networks                                              | Lecture at ETEC, Lab             |
-|          | 10-Oct                |                                                             | Convolutional neural networks, Recurrent neural networks     |                                  |
-| 8        | ***15-Oct***         | ***Fall Break***                                           |                                                              |                                  |
-|          | 17-Oct                |                                                             | Training and evaluating deep learning models                 |                                  |
-| 9        | 22-Oct                | M5: Robotic Process Automation (RPA)                        | <a href="https://arwan90.github.io/UAlbanyTeaching/Fall_2024/CINF135/Slides/L6-RPAs.slides#/">What is RPA?, The benefits of RPA </a>                            |                                  |
-|          | 24-Oct                |                                                             | How to implement RPA, RPA use cases                          |                                  |
-| 10       | 29-Oct                | M6: Physical Robots                                         | <a href="https://arwan90.github.io/UAlbanyTeaching/Fall_2024/CINF135/Slides/L7-Robot.slides#/">What are physical robots?, Different types of physical robots</a> |                                  |
-|          | 31-Oct                |                                                             | Programming physical robots, Physical robot applications     | Lecture at ETEC, Lab             |
-| 11       | 5-Nov                 | M7: Natural Language Processing (NLP)                       | <a href="https://arwan90.github.io/UAlbanyTeaching/Fall_2024/CINF135/Slides/L8-NLP_.slides#/">What is NLP?, Common NLP tasks</a>                               |                                  |
-|          | 7-Nov                 |                                                             | NLP algorithms                                               |                                  |
-| 12       | 12-Nov                |                                                             | NLP use cases                                                |                                  |
-|          | 14-Nov                | M8: Implementation of AI                                    | <a href="https://arwan90.github.io/UAlbanyTeaching/Fall_2024/CINF135/Slides/L9-AI_imp.slides#/">Developing and deploying AI solutions</a>                        |                                  |
-| 13       | 19-Nov                |                                                             | AI project management, AI governance                         | Lecture at ETEC, Lab             |
-|          | 21-Nov                | M9: The Future of AI                                        | <a href="https://arwan90.github.io/UAlbanyTeaching/Fall_2024/CINF135/Slides/L10-Future.slides#/">Emerging trends in AI, The ethical implications of AI</a>        |                                  |
-| 14       | 26-Nov                |                                                             | The impact of AI on society, Preparing for the future of AI  |                                  |
-|          | ***28-Nov***         | ***Thanksgiving,  No Class***                              |                                                              |                                  |
-| 15       | 3-Dec                 | **Showcase  Day** | **All Students are expected to participate**               |                                  |
-|          | 5-Dec                 |                                                             | The impact of AI on society, Preparing for the future of AI  | Last Day of Fall Semester Classs |
-| 16       | Final Exam  Day (TBD) |                                                             |                                                              |                                  |
+| **Week** | **Date**             | **Module**                        | **Topics**                                                   | **Notes**                        |
+| -------- | -------------------- | ---------------------------------- | ------------------------------------------------------------ | -------------------------------- |
+| 1        | 23-Jan               | M1: AI Foundations                | Introduction, What is AI?                                    |                                  |
+|          | 28-Jan               |                                    | A brief history of AI, Different types of AI                 |                                  |
+| 2        | 30-Jan               |                                    | The potential of AI                                          |                                  |
+|          | 4-Feb                | M2: Data                          | The importance of data in AI                                 |                                  |
+| 3        | 6-Feb                |                                    | Different types of data                                      | Lecture at ETEC, Lab             |
+|          | 11-Feb               |                                    | Collecting and preparing data for AI                         |                                  |
+| 4        | 13-Feb               |                                    | Data ethics and privacy                                      |                                  |
+|          | 18-Feb               | M3: Machine Learning              | What is machine learning?                                    |                                  |
+| 5        | 20-Feb               |                                    | Different types of machine learning                          | Lecture at ETEC, Lab             |
+|          | 25-Feb               |                                    | Common machine learning algorithms                           |                                  |
+| 6        | 27-Feb               |                                    | Evaluating machine learning models                           |                                  |
+|          | 4-Mar                | M4: Deep Learning                 | What is deep learning?                                       |                                  |
+| 7        | 6-Mar                |                                    | Neural networks                                              | Lecture at ETEC, Lab             |
+|          | 11-Mar               |                                    | Convolutional neural networks, Recurrent neural networks     |                                  |
+| 8        | 13-Mar               |                                    | Training and evaluating deep learning models                 |                                  |
+|          | 18-Mar               | ***Spring Break***                |                                                              |                                  |
+| 9        | 20-Mar               |                                    |                                                              |                                  |
+|          | 25-Mar               | M5: Robotic Process Automation    | What is RPA? The benefits of RPA                             |                                  |
+| 10       | 27-Mar               |                                    | How to implement RPA, RPA use cases                          |                                  |
+|          | 1-Apr                | M6: Physical Robots               | What are physical robots? Different types of physical robots |                                  |
+| 11       | 3-Apr                |                                    | Programming physical robots, Physical robot applications     | Lecture at ETEC, Lab             |
+|          | 8-Apr                | M7: Natural Language Processing   | What is NLP? Common NLP tasks                                |                                  |
+| 12       | 10-Apr               |                                    | NLP algorithms                                               |                                  |
+|          | 15-Apr               |                                    | NLP use cases                                                |                                  |
+| 13       | 17-Apr               | M8: Implementation of AI          | Developing and deploying AI solutions                        |                                  |
+|          | 22-Apr               |                                    | AI project management, AI governance                         | Lecture at ETEC, Lab             |
+| 14       | 24-Apr               | M9: The Future of AI              | Emerging trends in AI, The ethical implications of AI        |                                  |
+|          | 29-Apr               | **Final Preparation**             | **Showcase Day (on April 30th). All Students are expected to participate with a Poster** |                                  |
+| 15       | 1-May                |                                    | The impact of AI on society, Preparing for the future of AI  |                                  |
+|          | 6-May                |                                    | The impact of AI on society, Preparing for the future of AI  | Last Day of Spring Semester Class |
+| 16       |                   | **Makeup Session**                |                                                              |                                  |
 
 ## CEHC Showcase
 
