@@ -285,7 +285,8 @@ presenting at this event and should reserve that time in their schedule.
 If your schedule does not permit you to attend, you will have an
 alternative assignment. ***Note:*** I grade easier for Showcase
 presentations than for the alternative assignment so you should
-seriously consider your schedule limitations!
+seriously consider your schedule limitations! You are required to prepare a poster for presentation, which will be printed at no cost by the university. Please monitor announcements on Brightspace carefully to ensure you meet the printing deadline. The template will be provided to you over BrightSpace.
+
 
 ## Policies:
 
