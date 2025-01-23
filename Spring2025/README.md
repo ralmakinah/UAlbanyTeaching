@@ -255,7 +255,7 @@ attention to your Brightspace course outline and announcements.**
 |          | 11-Mar               |                                    | Convolutional neural networks, Recurrent neural networks     |                                  |
 | 8        | 13-Mar               |                                    | Training and evaluating deep learning models                 |                                  |
 |          | 18-Mar               | ***Spring Break***                |                                                              |                                  |
-| 9        | 20-Mar               |                                    |                                                              |                                  |
+| 9        | 20-Mar               | ***Spring Break***                                 |                                                              |                                  |
 |          | 25-Mar               | M5: Robotic Process Automation    | What is RPA? The benefits of RPA                             |                                  |
 | 10       | 27-Mar               |                                    | How to implement RPA, RPA use cases                          |                                  |
 |          | 1-Apr                | M6: Physical Robots               | What are physical robots? Different types of physical robots |                                  |
