@@ -239,7 +239,7 @@ attention to your Brightspace course outline and announcements.**
 
 | **Week** | **Date**             | **Module**                        | **Topics**                                                   | **Notes**                        |
 | -------- | -------------------- | ---------------------------------- | ------------------------------------------------------------ | -------------------------------- |
-| 1        | 23-Jan               | M1: AI Foundations                | Introduction, What is AI?                                    |                                  |
+| 1        | 23-Jan               | M1: AI Foundations                | <a href="https://arwan90.github.io/UAlbanyTeaching/Spring2025/Slides/L1-Intro.slides#/">Introduction, What is AI?</a>                                    |                                  |
 |          | 28-Jan               |                                    | A brief history of AI, Different types of AI                 |                                  |
 | 2        | 30-Jan               |                                    | The potential of AI                                          |                                  |
 |          | 4-Feb                | M2: Data                          | The importance of data in AI                                 |                                  |
