@@ -246,7 +246,7 @@ attention to your Brightspace course outline and announcements.**
 | 3        | 6-Feb                |                                    | Different types of data                                      | Lecture at ETEC, Lab             |
 |          | 11-Feb               |                                    | Collecting and preparing data for AI                         |                                  |
 | 4        | 13-Feb               |                                    | Data ethics and privacy                                      |                                  |
-|          | 18-Feb               | M3: Machine Learning              | What is machine learning?                                    |                                  |
+|          | 18-Feb               | M3: Machine Learning              | <a href= "https://arwan90.github.io/UAlbanyTeaching/Spring2025/Slides/L4/L4-AIvsML.slides#/">What is machine learning?</a>                                    |                                  |
 | 5        | 20-Feb               |                                    | Different types of machine learning                          | Lecture at ETEC, Lab             |
 |          | 25-Feb               |                                    | Common machine learning algorithms                           |                                  |
 | 6        | 27-Feb               |                                    | Evaluating machine learning models                           |                                  |
