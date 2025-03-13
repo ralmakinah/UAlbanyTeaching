@@ -250,7 +250,7 @@ attention to your Brightspace course outline and announcements.**
 | 5        | 20-Feb               |                                    | Different types of machine learning                          | Lecture at ETEC, Lab             |
 |          | 25-Feb               |                                    | Common machine learning algorithms                           |                                  |
 | 6        | 27-Feb               |                                    | Evaluating machine learning models                           |                                  |
-|          | 4-Mar                | M4: Deep Learning                 | What is deep learning?                                       |                                  |
+|          | 4-Mar                | M4: Deep Learning                 | <a href="https://arwan90.github.io/UAlbanyTeaching/Spring2025/Slides/L5/L5-DeepLearning.slides#/">What is deep learning?</a>                                       |                                  |
 | 7        | 6-Mar                |                                    | Neural networks                                              | Lecture at ETEC, Lab             |
 |          | 11-Mar               |                                    | Convolutional neural networks, Recurrent neural networks     |                                  |
 | 8        | 13-Mar               |                                    | Training and evaluating deep learning models                 |                                  |
