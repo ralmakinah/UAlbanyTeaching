@@ -256,7 +256,7 @@ attention to your Brightspace course outline and announcements.**
 | 8        | 13-Mar               |                                    | Training and evaluating deep learning models                 |                                  |
 |          | 18-Mar               | ***Spring Break***                |                                                              |                                  |
 | 9        | 20-Mar               | ***Spring Break***                                 |                                                              |                                  |
-|          | 25-Mar               | M5: Robotic Process Automation    | What is RPA? The benefits of RPA                             |                                  |
+|          | 25-Mar               | M5: Robotic Process Automation    | <a href="https://arwan90.github.io/UAlbanyTeaching/Spring2025/Slides/L6/L6-RPAs.slides#/"> What is RPA? The benefits of RPA</a>                             |                                  |
 | 10       | 27-Mar               |                                    | How to implement RPA, RPA use cases                          |                                  |
 |          | 1-Apr                | M6: Physical Robots               | What are physical robots? Different types of physical robots |                                  |
 | 11       | 3-Apr                |                                    | Programming physical robots, Physical robot applications     | Lecture at ETEC, Lab             |
