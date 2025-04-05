@@ -258,7 +258,7 @@ attention to your Brightspace course outline and announcements.**
 | 9        | 20-Mar               | ***Spring Break***                                 |                                                              |                                  |
 |          | 25-Mar               | M5: Robotic Process Automation    | <a href="https://arwan90.github.io/UAlbanyTeaching/Spring2025/Slides/L6/L6-RPAs.slides#/"> What is RPA? The benefits of RPA</a>                             |                                  |
 | 10       | 27-Mar               |                                    | How to implement RPA, RPA use cases                          |                                  |
-|          | 1-Apr                | M6: Physical Robots               | What are physical robots? Different types of physical robots |                                  |
+|          | 1-Apr                | M6: Physical Robots               | <a href="https://arwan90.github.io/UAlbanyTeaching/Spring2025/Slides/L7/L7-Robot.slides#/">What are physical robots? Different types of physical robots</a> |                                  |
 | 11       | 3-Apr                |                                    | Programming physical robots, Physical robot applications     | Lecture at ETEC, Lab             |
 |          | 8-Apr                | M7: Natural Language Processing   | What is NLP? Common NLP tasks                                |                                  |
 | 12       | 10-Apr               |                                    | NLP algorithms                                               |                                  |
