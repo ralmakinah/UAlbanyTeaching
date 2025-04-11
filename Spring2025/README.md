@@ -265,8 +265,8 @@ attention to your Brightspace course outline and announcements.**
 |          | 15-Apr               |                                    | NLP algorithms, NLP use cases                                                |                                  |
 | 13       | 17-Apr               | M8: Implementation of AI          | Developing and deploying AI solutions                        |                                  |
 |          | 22-Apr               |                                    | AI project management, AI governance                         | Lecture at ETEC, Lab             |
-| 14       | 24-Apr               | M9: The Future of AI              | **No Class - NTIR Day**        |                                  |
-|          | 29-Apr               | **Final Preparation**             | Emerging trends in AI, The ethical implications of AI The impact of AI on society, Preparing for the future of AI **Showcase Day (on April 30th). All Students are expected to participate with a Poster** |                                  |
+| 14       | 24-Apr               |              | **No Class - NTIR Day**        |                                  |
+|          | 29-Apr               | M9: The Future of AI              | Emerging trends in AI, The ethical implications of AI The impact of AI on society, Preparing for the future of AI **Showcase Day (on April 30th). All Students are expected to participate with a Poster** |                                  |
 | 15       | 1-May                |                                    | **Makeup Session**  |                                  |
 |          | 6-May                |                                    |   | Last Day of Spring Semester Class |
 | 16       |                   |                 |                                                              |                                  |
