@@ -261,8 +261,8 @@ attention to your Brightspace course outline and announcements.**
 |          | 1-Apr                | M6: Physical Robots               | <a href="https://arwan90.github.io/UAlbanyTeaching/Spring2025/Slides/L7/L7-Robot.slides#/">What are physical robots? Different types of physical robots</a> |                                  |
 | 11       | 3-Apr                |                                    | Programming physical robots, Physical robot applications     | Lecture at ETEC, Lab             |
 |          | 8-Apr                | M7: Natural Language Processing   | What is NLP? Common NLP tasks                                |                                  |
-| 12       | 10-Apr               |                                    | NLP algorithms                                               |                                  |
-|          | 15-Apr               |                                    | NLP use cases                                                |                                  |
+| 12       | 10-Apr               |                                    |  Finalizing Showcase Posters                                              |                                  |
+|          | 15-Apr               |                                    | NLP algorithms, NLP use cases                                                |                                  |
 | 13       | 17-Apr               | M8: Implementation of AI          | Developing and deploying AI solutions                        |                                  |
 |          | 22-Apr               |                                    | AI project management, AI governance                         | Lecture at ETEC, Lab             |
 | 14       | 24-Apr               | M9: The Future of AI              | **No Class - NTIR Day**        |                                  |
