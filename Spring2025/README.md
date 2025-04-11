@@ -266,10 +266,10 @@ attention to your Brightspace course outline and announcements.**
 | 13       | 17-Apr               | M8: Implementation of AI          | Developing and deploying AI solutions                        |                                  |
 |          | 22-Apr               |                                    | AI project management, AI governance                         | Lecture at ETEC, Lab             |
 | 14       | 24-Apr               | M9: The Future of AI              | Emerging trends in AI, The ethical implications of AI        |                                  |
-|          | 29-Apr               | **Final Preparation**             | **Showcase Day (on April 30th). All Students are expected to participate with a Poster** |                                  |
-| 15       | 1-May                |                                    | The impact of AI on society, Preparing for the future of AI  |                                  |
-|          | 6-May                |                                    | The impact of AI on society, Preparing for the future of AI  | Last Day of Spring Semester Class |
-| 16       |                   | **Makeup Session**                |                                                              |                                  |
+|          | 29-Apr               | **Final Preparation**             | The impact of AI on society, Preparing for the future of AI **Showcase Day (on April 30th). All Students are expected to participate with a Poster** |                                  |
+| 15       | 1-May                |                                    | **Makeup Session**  |                                  |
+|          | 6-May                |                                    |   | Last Day of Spring Semester Class |
+| 16       |                   |                 |                                                              |                                  |
 
 ## CEHC Showcase
 
