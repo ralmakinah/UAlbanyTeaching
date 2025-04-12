@@ -260,7 +260,7 @@ attention to your Brightspace course outline and announcements.**
 | 10       | 27-Mar               |                                    | How to implement RPA, RPA use cases                          |                                  |
 |          | 1-Apr                | M6: Physical Robots               | <a href="https://arwan90.github.io/UAlbanyTeaching/Spring2025/Slides/L7/L7-Robot.slides#/">What are physical robots? Different types of physical robots</a> |                                  |
 | 11       | 3-Apr                |                                    | Programming physical robots, Physical robot applications     | Lecture at ETEC, Lab             |
-|          | 8-Apr                | M7: Natural Language Processing   | What is NLP? Common NLP tasks                                |                                  |
+|          | 8-Apr                | M7: Natural Language Processing   | <a href="https://arwan90.github.io/UAlbanyTeaching/Spring2025/Slides/L8/L8-NLP.slides#/">What is NLP? Common NLP tasks</a>                                |                                  |
 | 12       | 10-Apr               |                                    |  Finalizing Showcase Posters                                              |                                  |
 |          | 15-Apr               |                                    | NLP algorithms, NLP use cases                                                |                                  |
 | 13       | 17-Apr               | M8: Implementation of AI          | Developing and deploying AI solutions                        |                                  |
