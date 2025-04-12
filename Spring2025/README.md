@@ -263,7 +263,7 @@ attention to your Brightspace course outline and announcements.**
 |          | 8-Apr                | M7: Natural Language Processing   | <a href="https://arwan90.github.io/UAlbanyTeaching/Spring2025/Slides/L8/L8-NLP.slides#/">What is NLP? Common NLP tasks</a>                                |                                  |
 | 12       | 10-Apr               |                                    |  Finalizing Showcase Posters                                              |                                  |
 |          | 15-Apr               |                                    | NLP algorithms, NLP use cases                                                |                                  |
-| 13       | 17-Apr               | M8: Implementation of AI          | Developing and deploying AI solutions                        |                                  |
+| 13       | 17-Apr               | M8: Implementation of AI          | <a href="https://arwan90.github.io/UAlbanyTeaching/Spring2025/Slides/L9/L9-AI_imp.slides#/">Developing and deploying AI solutions</a>                        |                                  |
 |          | 22-Apr               |                                    | AI project management, AI governance                         | Lecture at ETEC, Lab             |
 | 14       | 24-Apr               |              | **No Class - NTIR Day**        |                                  |
 |          | 29-Apr               | M9: The Future of AI              | Emerging trends in AI, The ethical implications of AI, The impact of AI on society, Preparing for the future of AI. **[Note: Showcase Day (on April 30th). All Students are expected to participate with a Poster]** |                                  |
