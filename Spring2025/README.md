@@ -266,7 +266,7 @@ attention to your Brightspace course outline and announcements.**
 | 13       | 17-Apr               | M8: Implementation of AI          | <a href="https://arwan90.github.io/UAlbanyTeaching/Spring2025/Slides/L9/L9-AI_imp.slides#/">Developing and deploying AI solutions</a>                        |                                  |
 |          | 22-Apr               |                                    | AI project management, AI governance                         | Lecture at ETEC, Lab             |
 | 14       | 24-Apr               |              | **No Class - NTIR Day**        |                                  |
-|          | 29-Apr               | M9: The Future of AI              | Emerging trends in AI, The ethical implications of AI, The impact of AI on society, Preparing for the future of AI. **[Note: Showcase Day (on April 30th). All Students are expected to participate with a Poster]** |                                  |
+|          | 29-Apr               | M9: The Future of AI              | <a href="https://arwan90.github.io/UAlbanyTeaching/Spring2025/Slides/L10/L10-Future.slides#/">Emerging trends in AI, The ethical implications of AI, The impact of AI on society, Preparing for the future of AI.</a> **[Note: Showcase Day (on April 30th). All Students are expected to participate with a Poster]** |                                  |
 | 15       | 1-May                |                                    | **Makeup Session**  |                                  |
 |          | 6-May                | **No class**                                |   | Last Day of Spring Semester Class |
 | 16       |                   |                 |                                                              |                                  |
