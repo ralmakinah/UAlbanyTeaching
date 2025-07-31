@@ -1,1 +1,1 @@
-Teaching Repository for UAlbany | ETEC . . . 
+Teaching Repository for UAlbany | CEHC | Concepts of AI
