@@ -1,16 +1,16 @@
 # CINF 135: Concepts of Artificial Intelligence (3 Credits)
 
-**Semester:** Spring 2025
+**Semester:** Fall 2025
 
-**Day/Time:** In person – Tuesdays and Thursdays 12:00 PM - 1:20 PM
+**Day/Time:** In person – Tuesdays and Thursdays 01:00 PM - 2:50 PM
 
 **Location:** ETEC - 190
 
-**Instructor:** Rawan AlMakinah *\[ She/her/hers \]*
+**Instructor:** Rawan AlMakinah *\[She/her/hers\]*
 
 
-**Office Location and Hours:** Monday 4:00 pm – 5:30 pm (via Zoom)
-or by appointment
+**Office Location and Hours:** Tuesday 11:00 am – 01:00 pm (via Zoom)
+or by appointment (refer to the Brightspace syllabus for the link)
 
 
 
@@ -19,10 +19,10 @@ or by appointment
 ## Course Description:
 
 An introduction to the technical foundations of artificial intelligence
-as well as its relevance to, and implications for modern society. The
+as well as its relevance to, and implications for, modern society. The
 course will cover the basics of artificial intelligence and machine
 learning (AI/ML). This will include hands-on work. The importance of
-data selection, handling, etc. will also be covered. In addition, as
+data selection, handling, etc., will also be covered. In addition, as
 AI/ML becomes more prevalent, it has tremendous implications in the
 world. The course will introduce issues of fairness, bias,
 explainability, etc., and how these and other issues must be addressed
@@ -42,7 +42,7 @@ Upon successful completion of this course, students will be able to:
 1.	**Identify and define** key components of AI/ML systems. **(1.1 B)**
 
   - **Measure:** Students can list and describe the essential parts of AI/ML systems.
-  - **Corresponding Assignment:** In Class Team Work - Intro To AI Systems
+  - **Corresponding Assignment:** In-Class Team Work - Intro To AI Systems
 
 2.	**Research and gather** relevant information about AI/ML. **(1.2 I)**
 
@@ -239,34 +239,34 @@ attention to your Brightspace course outline and announcements.**
 
 | **Week** | **Date**             | **Module**                        | **Topics**                                                   | **Notes**                        |
 | -------- | -------------------- | ---------------------------------- | ------------------------------------------------------------ | -------------------------------- |
-| 1        | 23-Jan               | M1: AI Foundations                | <a href="https://arwan90.github.io/UAlbanyTeaching/Spring2025/Slides/L1-Intro.slides#/">Introduction, What is AI?</a>                                    |                                  |
-|          | 28-Jan               |                                    | <a href="https://arwan90.github.io/UAlbanyTeaching/Spring2025/Slides/L2/L2_AI_History.slides#/"> A brief history of AI, Different types of AI </a>                 |                                  |
+| 1        | 23-Jan               | M1: AI Foundations                | <a href="">Introduction, What is AI?</a>                                    |                                  |
+|          | 28-Jan               |                                    | <a href=""> A brief history of AI, Different types of AI </a>                 |                                  |
 | 2        | 30-Jan               |                                    | The potential of AI                                          |                                  |
-|          | 4-Feb                | M2: Data                          | <a href="https://arwan90.github.io/UAlbanyTeaching/Spring2025/Slides/L3/L3-Data.slides#/">The importance of data in AI</a>                                 |                                  |
+|          | 4-Feb                | M2: Data                          | <a href="">The importance of data in AI</a>                                 |                                  |
 | 3        | 6-Feb                |                                    | Different types of data                                      | Lecture at ETEC, Lab             |
 |          | 11-Feb               |                                    | Collecting and preparing data for AI                         |                                  |
 | 4        | 13-Feb               |                                    | Data ethics and privacy                                      |                                  |
-|          | 18-Feb               | M3: Machine Learning              | <a href= "https://arwan90.github.io/UAlbanyTeaching/Spring2025/Slides/L4/L4-AIvsML.slides#/">What is machine learning?</a>                                    |                                  |
+|          | 18-Feb               | M3: Machine Learning              | <a href= "">What is machine learning?</a>                                    |                                  |
 | 5        | 20-Feb               |                                    | Different types of machine learning                          | Lecture at ETEC, Lab             |
 |          | 25-Feb               |                                    | Common machine learning algorithms                           |                                  |
 | 6        | 27-Feb               |                                    | Evaluating machine learning models                           |                                  |
-|          | 4-Mar                | M4: Deep Learning                 | <a href="https://arwan90.github.io/UAlbanyTeaching/Spring2025/Slides/L5/L5-DeepLearning.slides#/">What is deep learning?</a>                                       |                                  |
+|          | 4-Mar                | M4: Deep Learning                 | <a href="">What is deep learning?</a>                                       |                                  |
 | 7        | 6-Mar                |                                    | Neural networks                                              | Lecture at ETEC, Lab             |
 |          | 11-Mar               |                                    | Convolutional neural networks, Recurrent neural networks     |                                  |
 | 8        | 13-Mar               |                                    | Training and evaluating deep learning models                 |                                  |
 |          | 18-Mar               | ***Spring Break***                |                                                              |                                  |
 | 9        | 20-Mar               | ***Spring Break***                                 |                                                              |                                  |
-|          | 25-Mar               | M5: Robotic Process Automation    | <a href="https://arwan90.github.io/UAlbanyTeaching/Spring2025/Slides/L6/L6-RPAs.slides#/"> What is RPA? The benefits of RPA</a>                             |                                  |
+|          | 25-Mar               | M5: Robotic Process Automation    | <a href=""> What is RPA? The benefits of RPA</a>                             |                                  |
 | 10       | 27-Mar               |                                    | How to implement RPA, RPA use cases                          |                                  |
-|          | 1-Apr                | M6: Physical Robots               | <a href="https://arwan90.github.io/UAlbanyTeaching/Spring2025/Slides/L7/L7-Robot.slides#/">What are physical robots? Different types of physical robots</a> |                                  |
+|          | 1-Apr                | M6: Physical Robots               | <a href="">What are physical robots? Different types of physical robots</a> |                                  |
 | 11       | 3-Apr                |                                    | Programming physical robots, Physical robot applications     | Lecture at ETEC, Lab             |
-|          | 8-Apr                | M7: Natural Language Processing   | <a href="https://arwan90.github.io/UAlbanyTeaching/Spring2025/Slides/L8/L8-NLP.slides#/">What is NLP? Common NLP tasks</a>                                |                                  |
+|          | 8-Apr                | M7: Natural Language Processing   | <a href="">What is NLP? Common NLP tasks</a>                                |                                  |
 | 12       | 10-Apr               |                                    |  Finalizing Showcase Posters                                              |                                  |
 |          | 15-Apr               |                                    | NLP algorithms, NLP use cases                                                |                                  |
-| 13       | 17-Apr               | M8: Implementation of AI          | <a href="https://arwan90.github.io/UAlbanyTeaching/Spring2025/Slides/L9/L9-AI_imp.slides#/">Developing and deploying AI solutions</a>                        |                                  |
+| 13       | 17-Apr               | M8: Implementation of AI          | <a href="">Developing and deploying AI solutions</a>                        |                                  |
 |          | 22-Apr               |                                    | AI project management, AI governance                         | Lecture at ETEC, Lab             |
 | 14       | 24-Apr               |              | **No Class - NTIR Day**        |                                  |
-|          | 29-Apr               | M9: The Future of AI              | <a href="https://arwan90.github.io/UAlbanyTeaching/Spring2025/Slides/L10/L10-Future.slides#/">Emerging trends in AI, The ethical implications of AI, The impact of AI on society, Preparing for the future of AI.</a> **[Note: Showcase Day (on April 30th). All Students are expected to participate with a Poster]** |                                  |
+|          | 29-Apr               | M9: The Future of AI              | <a href="">Emerging trends in AI, The ethical implications of AI, The impact of AI on society, Preparing for the future of AI.</a> **[Note: Showcase Day (on April 30th). All Students are expected to participate with a Poster]** |                                  |
 | 15       | 1-May                |                                    | **Makeup Session**  |                                  |
 |          | 6-May                | **No class**                                |   | Last Day of Spring Semester Class |
 | 16       |                   |                 |                                                              |                                  |
