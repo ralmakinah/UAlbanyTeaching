@@ -95,8 +95,9 @@ The required text for this course is:
 
 <img src="imgs/textbook.png" alt="Artificial Intelligence Basics: A... by Taulli, Tom" />
 
-Artificial Intelligence Basics: A Non-technical Introduction
-2019. Apress. ISBN-13: 978-1-4842-5028-0.
+Artificial Intelligence Basics: A Non-technical Introduction | 2019. Apress. ISBN-13: 978-1-4842-5028-0.
+
+
 In addition to the required text, there will be readings that will be available to the students online or via Brightspace. When these readings are assigned, the class will be told where they can be found. These will cover the various topics in the course and will be drawn from the literature in several fields (e.g., computer science, electrical and computer engineering, psychology, informatics, law) to help inform us about the multiple perspectives necessary to understand Artificial Intelligence. This will also provide the underlying information to help us learn to critically evaluate and navigate our own digital lives securely in this rapidly changing world.
 
 
