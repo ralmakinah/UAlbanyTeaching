@@ -92,10 +92,33 @@ By achieving these outcomes, students will gain a foundational understanding of 
 ## Required Readings:
 
 The required text for this course is:
-| Book | Details |
-|------------------------|---------|
-| <img src="imgs/textbook.png" style="width:1.5in;height:2.35in" alt="Artificial Intelligence Basics: A... by Taulli, Tom" /> | - ***Taulli, Tom. Artificial Intelligence Basics: A Non-technical Introduction.*** 2019. Apress. ISBN-13: 978-1-4842-5028-0.<br><br>In addition to the required text, there will be readings that will be available to the students online or via Brightspace. When these readings are assigned, the class will be told where they can be found. These will cover the various topics in the course and will be drawn from the literature in several fields (e.g., computer science, electrical and computer engineering, psychology, informatics, law) to help inform us about the multiple perspectives necessary to understand Artificial Intelligence. This will also provide the underlying information to help us learn to critically evaluate and navigate our own digital lives securely in this rapidly changing world. |
-
+<table>
+  <tr>
+    <th style="width:30%">Book</th>
+    <th style="width:70%">Details</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="imgs/textbook.png" style="width:1.5in;height:2.35in" 
+      alt="Artificial Intelligence Basics: A... by Taulli, Tom" />
+    </td>
+    <td>
+      - <b><i>Taulli, Tom. Artificial Intelligence Basics: A Non-technical Introduction.</i></b>  
+      2019. Apress. ISBN-13: 978-1-4842-5028-0.  
+      <br><br>
+      In addition to the required text, there will be readings that will be 
+      available to the students online or via Brightspace. When these readings 
+      are assigned, the class will be told where they can be found. These will 
+      cover the various topics in the course and will be drawn from the 
+      literature in several fields (e.g., computer science, electrical and 
+      computer engineering, psychology, informatics, law) to help inform us 
+      about the multiple perspectives necessary to understand Artificial 
+      Intelligence. This will also provide the underlying information to help 
+      us learn to critically evaluate and navigate our own digital lives 
+      securely in this rapidly changing world.
+    </td>
+  </tr>
+</table>
 
 
 **TEAM-BASED LEARNING (TBL)**
