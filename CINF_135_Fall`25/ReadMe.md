@@ -101,7 +101,7 @@ The required text for this course is:
   </tr>
   <tr>
     <td style="text-align:center; vertical-align:top; padding:10px;">
-      <img src="imgs/textbook.png" style="width:1.5in; height:2.35in;" 
+      <img src="imgs/textbook.png" style="width:3in; height:2.35in;" 
       alt="Artificial Intelligence Basics: A... by Taulli, Tom" />
     </td>
     <td style="padding:10px; vertical-align:top;">
