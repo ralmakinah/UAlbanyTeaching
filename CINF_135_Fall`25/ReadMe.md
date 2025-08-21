@@ -237,39 +237,39 @@ opportunity, with the chance to earn bonus credits upon completion.**
 **\*\* This is a tentative schedule and subject to change. Please pay
 attention to your Brightspace course outline and announcements.**
 
-| **Week** | **Date**             | **Module**                        | **Topics**                                                   | **Notes**                        |
-| -------- | -------------------- | ---------------------------------- | ------------------------------------------------------------ | -------------------------------- |
-| 1        | 23-Jan               | M1: AI Foundations                | <a href="">Introduction, What is AI?</a>                                    |                                  |
-|          | 28-Jan               |                                    | <a href=""> A brief history of AI, Different types of AI </a>                 |                                  |
-| 2        | 30-Jan               |                                    | The potential of AI                                          |                                  |
-|          | 4-Feb                | M2: Data                          | <a href="">The importance of data in AI</a>                                 |                                  |
-| 3        | 6-Feb                |                                    | Different types of data                                      | Lecture at ETEC, Lab             |
-|          | 11-Feb               |                                    | Collecting and preparing data for AI                         |                                  |
-| 4        | 13-Feb               |                                    | Data ethics and privacy                                      |                                  |
-|          | 18-Feb               | M3: Machine Learning              | <a href= "">What is machine learning?</a>                                    |                                  |
-| 5        | 20-Feb               |                                    | Different types of machine learning                          | Lecture at ETEC, Lab             |
-|          | 25-Feb               |                                    | Common machine learning algorithms                           |                                  |
-| 6        | 27-Feb               |                                    | Evaluating machine learning models                           |                                  |
-|          | 4-Mar                | M4: Deep Learning                 | <a href="">What is deep learning?</a>                                       |                                  |
-| 7        | 6-Mar                |                                    | Neural networks                                              | Lecture at ETEC, Lab             |
-|          | 11-Mar               |                                    | Convolutional neural networks, Recurrent neural networks     |                                  |
-| 8        | 13-Mar               |                                    | Training and evaluating deep learning models                 |                                  |
-|          | 18-Mar               | ***Spring Break***                |                                                              |                                  |
-| 9        | 20-Mar               | ***Spring Break***                                 |                                                              |                                  |
-|          | 25-Mar               | M5: Robotic Process Automation    | <a href=""> What is RPA? The benefits of RPA</a>                             |                                  |
-| 10       | 27-Mar               |                                    | How to implement RPA, RPA use cases                          |                                  |
-|          | 1-Apr                | M6: Physical Robots               | <a href="">What are physical robots? Different types of physical robots</a> |                                  |
-| 11       | 3-Apr                |                                    | Programming physical robots, Physical robot applications     | Lecture at ETEC, Lab             |
-|          | 8-Apr                | M7: Natural Language Processing   | <a href="">What is NLP? Common NLP tasks</a>                                |                                  |
-| 12       | 10-Apr               |                                    |  Finalizing Showcase Posters                                              |                                  |
-|          | 15-Apr               |                                    | NLP algorithms, NLP use cases                                                |                                  |
-| 13       | 17-Apr               | M8: Implementation of AI          | <a href="">Developing and deploying AI solutions</a>                        |                                  |
-|          | 22-Apr               |                                    | AI project management, AI governance                         | Lecture at ETEC, Lab             |
-| 14       | 24-Apr               |              | **No Class - NTIR Day**        |                                  |
-|          | 29-Apr               | M9: The Future of AI              | <a href="">Emerging trends in AI, The ethical implications of AI, The impact of AI on society, Preparing for the future of AI.</a> **[Note: Showcase Day (on April 30th). All Students are expected to participate with a Poster]** |                                  |
-| 15       | 1-May                |                                    | **Makeup Session**  |                                  |
-|          | 6-May                | **No class**                                |   | Last Day of Spring Semester Class |
-| 16       |                   |                 |                                                              |                                  |
+| **Week** | **Date**   | **Module**                        | **Topics**                                                                                   | **Notes**                                                  |
+| -------- | ---------- | ---------------------------------- | -------------------------------------------------------------------------------------------- | ---------------------------------------------------------- |
+| 1        | 26-Aug     | Syllabus                          | Syllabus, Brightspace, GitHub, Labs, Showcase Review                                         |                                                            |
+|          | 28-Aug     | M1: AI Foundations                | <a href="">Introduction, What is AI?</a>                                                     |                                                            |
+| 2        | 2-Sep      |                                   | <a href="">A brief history of AI, Different types of AI</a>                                  |                                                            |
+|          | 4-Sep      |                                   | The potential of AI                                                                          |                                                            |
+| 3        | 9-Sep      | M2: Data                          | <a href="">The importance of data in AI</a>                                                  |                                                            |
+|          | 11-Sep     |                                   | Different types of data                                                                      | Quiz 1 <br> Lab 1 \| In Person                             |
+| 4        | 16-Sep     |                                   | Collecting and preparing data for AI                                                         |                                                            |
+|          | 18-Sep     |                                   | Data ethics and privacy                                                                      | Showcase Milestone 1: Project Selection (20 Minutes)        |
+| 5        | 23-Sep     | M3: Machine Learning              | <a href="">What is machine learning?</a>                                                     |                                                            |
+|          | 25-Sep     |                                   | Different types of machine learning                                                          | Quiz 2 <br> Lab 2 \| In Person                             |
+| 6        | 30-Sep     |                                   | Common machine learning algorithms                                                           |                                                            |
+|          | 2-Oct      |                                   | Evaluating machine learning models                                                           |                                                            |
+| 7        | 7-Oct      | M4: Deep Learning                 | <a href="">What is deep learning?</a>                                                        | Showcase Milestone 2: Poster Preparation (20 Minutes)       |
+|          | 9-Oct      |                                   | Neural networks                                                                              | Lab 3 \| In Person                                         |
+| 8        | 14-Oct     | ***Fall Break***                  |                                                                                              | **No Class**                                               |
+|          | 16-Oct     |                                   | Convolutional neural networks, Recurrent neural networks                                     | Quiz 3                                                     |
+| 9        | 21-Oct     |                                   | Training and evaluating deep learning models                                                 |                                                            |
+|          | 23-Oct     | M5: Robotic Process Automation    | <a href="">What is RPA? The benefits of RPA</a>                                              | Showcase Milestone 3: Upload your poster to Shared Drive    |
+| 10       | 28-Oct     |                                   | How to implement RPA, RPA use cases                                                          | Quiz 4 <br> Showcase Milestone 4: Poster Checkpoint (20 Min)|
+|          | 30-Oct     | M6: Physical Robots               | <a href="">What are physical robots? Different types of physical robots</a>                  |                                                            |
+| 11       | 4-Nov      |                                   | Programming physical robots, Physical robot applications                                     | Quiz 5 <br> Lab 4 \| In Person                             |
+|          | 6-Nov      | M7: Natural Language Processing   | <a href="">What is NLP? Common NLP tasks</a>                                                 |                                                            |
+| 12       | 11-Nov     |                                   | NLP algorithms                                                                               |                                                            |
+|          | 13-Nov     |                                   | NLP use cases                                                                                | Quiz 6                                                     |
+| 13       | 18-Nov     | M8: Implementation of AI          | <a href="">Developing and deploying AI solutions</a>                                         |                                                            |
+|          | 20-Nov     |                                   | AI project management                                                                        | Lab 5 \| In Person                                         |
+| 14       | 25-Nov     |                                   | AI governance                                                                                | Quiz 7                                                     |
+|          | 27-Nov     | ***Thanksgiving Break***          |                                                                                              | **No Class**                                               |
+| 15       | 2-Dec      | M9: The Future of AI              | <a href="">Emerging trends in AI, The ethical implications of AI</a>                         |                                                            |
+|          | 4-Dec      | **Showcase Day**                  | All Students are expected to participate with a Poster                                       |                                                            |
+| 16       | TBD        | **Makeup Session**                |                                                                                              |                                                            |
 
 ## CEHC Showcase
 
