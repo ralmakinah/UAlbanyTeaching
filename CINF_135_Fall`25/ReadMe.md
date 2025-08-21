@@ -104,7 +104,7 @@ The required text for this course is:
     <th style="text-align:left; padding:12px;">Details</th>
   </tr>
   <tr>
-    <td style="vertical-align:top; padding:12px; text-align:center; min-width:280px;">
+    <td style="vertical-align:top; padding:12px; text-align:center; min-width:400px;">
       <div style="width:280px; margin:0 auto;">
         <img src="imgs/textbook.png" alt="Artificial Intelligence Basics: A... by Taulli, Tom"
              style="display:block; width:1.5in; height:2.35in; margin:0 auto;" />
