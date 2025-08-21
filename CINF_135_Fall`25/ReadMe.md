@@ -269,7 +269,7 @@ attention to your Brightspace course outline and announcements.**
 |          | 27-Nov     | ***Thanksgiving Break***          |                                                                                              | **No Class**                                               |
 | 15       | 2-Dec      | M9: The Future of AI              | <a href="">Emerging trends in AI, The ethical implications of AI</a>                         |                                                            |
 |          | 4-Dec      | **Showcase Day**                  | All Students are expected to participate with a Poster   + **Makeup Session**                                     |                                                            |
-                                                                         |                                                            |
+                                                                         |                                                           
 
 ## CEHC Showcase
 
