@@ -92,17 +92,19 @@ By achieving these outcomes, students will gain a foundational understanding of 
 ## Required Readings:
 
 The required text for this course is:
-<table>
+
+
+<table style="width:100%; table-layout:fixed; border-collapse:collapse;">
   <tr>
-    <th style="width:30%">Book</th>
-    <th style="width:70%">Details</th>
+    <th style="width:220px; text-align:center;">Book</th>
+    <th style="text-align:left;">Details</th>
   </tr>
   <tr>
-    <td>
-      <img src="imgs/textbook.png" style="width:1.5in;height:2.35in" 
+    <td style="text-align:center; vertical-align:top; padding:10px;">
+      <img src="imgs/textbook.png" style="width:1.5in; height:2.35in;" 
       alt="Artificial Intelligence Basics: A... by Taulli, Tom" />
     </td>
-    <td>
+    <td style="padding:10px; vertical-align:top;">
       - <b><i>Taulli, Tom. Artificial Intelligence Basics: A Non-technical Introduction.</i></b>  
       2019. Apress. ISBN-13: 978-1-4842-5028-0.  
       <br><br>
@@ -119,6 +121,7 @@ The required text for this course is:
     </td>
   </tr>
 </table>
+
 
 
 **TEAM-BASED LEARNING (TBL)**
