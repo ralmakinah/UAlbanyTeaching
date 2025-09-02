@@ -9,7 +9,7 @@
 **Instructor:** Rawan AlMakinah *\[She/her/hers\]*
 
 
-**Office Location and Hours:** Tuesday 11:00 am – 01:00 pm (via Zoom)
+**Office Location and Hours:** Thursday 11:30 am – 01:00 pm (via Zoom)
 or by appointment (refer to the Brightspace syllabus for the link)
 
 
