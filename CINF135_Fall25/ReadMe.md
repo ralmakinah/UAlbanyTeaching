@@ -260,7 +260,7 @@ attention to your Brightspace course outline and announcements.**
 |          | 20-Nov     |                                   | AI project management                                                                        |                                          |
 | 14       | 25-Nov     |                                   | AI governance                                                                                | Lab 5 \| In Person <br> Quiz 7 <br> A4 Start                                                     |
 |          | 27-Nov     | ***Thanksgiving Break***          |                                                                                              | **No Class**                                               |
-| 15       | 2-Dec      | M9: The Future of AI              | Emerging trends in AI, The ethical implications of AI                         | A4 End                                                           |
+| 15       | 2-Dec      | M9: The Future of AI              | <a href="https://ralmakinah.github.io/UAlbanyTeaching/CINF135_Fall25/slides/L10/L10-Future.slides.html#/">Emerging trends in AI, The ethical implications of AI</a>                         | A4 End                                                           |
 |          | 4-Dec      | **Showcase Day**                  | All Students are expected to participate with a Poster   + **Makeup Session**                                     |                                                            |
                                                                                                                                 
 
