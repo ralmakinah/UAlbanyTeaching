@@ -1,1 +1,1 @@
-Teaching Repository for UAlbany | CEHC | Concepts of AI
+Teaching Repository for UAlbany | CEHC
