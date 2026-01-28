@@ -21,7 +21,7 @@ attention to your Brightspace course outline and announcements.**
 | Week | Date   | Module                                 | Topics                                                                 | Notes |
 |------|--------|----------------------------------------|------------------------------------------------------------------------|-------|
 | 1    | 22-Jan |                                        | Syllabus · Brightspace · GitHub · Labs · Showcase Review                |       |
-| 2    | 27-Jan | **M1: AI Foundations**                  | Introduction, what is AI?                                              |       |
+| 2    | 27-Jan | **M1: AI Foundations**                  | <a href="https://ralmakinah.github.io/UAlbanyTeaching/CINF135/Config/L1/L1-Intro.slides.html#/">Introduction, what is AI?</a>                                              |       |
 |      | 29-Jan |                                        | A brief history of AI, different types of AI.                           |       |
 | 3    | 03-Feb |                                        | The potential of AI                                                    | **A1 Start** |
 | 4    | 05-Feb | **M2: Data**                            | The importance of data in AI                                           |       |
