@@ -22,8 +22,8 @@ attention to your Brightspace course outline and announcements.**
 |------|--------|----------------------------------------|------------------------------------------------------------------------|-------|
 | 1    | 22-Jan |                                        | Syllabus · Brightspace · GitHub · Labs · Showcase Review                |       |
 | 2    | 27-Jan | **M1: AI Foundations**                  | <a href="https://ralmakinah.github.io/UAlbanyTeaching/CINF135/Config/L1/L1-Intro.slides.html#/">Introduction, what is AI?</a>                                              |       |
-|      | 29-Jan |                                        | A brief history of AI, different types of AI.                           |       |
-| 3    | 03-Feb |                                        | The potential of AI                                                    | **A1 Start** |
+|      | 29-Jan |                                        | <a href="https://ralmakinah.github.io/UAlbanyTeaching/CINF135/Config/L2/L2_AI_History_Part1.slides.html#/">A brief history of AI, different types of AI</a>                           |       |
+| 3    | 03-Feb |                                        | <a href="https://ralmakinah.github.io/UAlbanyTeaching/CINF135/Config/L2/L2_AI_History_Part2.slides.html#/">The potential of AI</a>                                                    | **A1 Start** |
 | 4    | 05-Feb | **M2: Data**                            | The importance of data in AI                                           |       |
 |      | 10-Feb |                                        | Different types of data                                                | **Quiz 1** on Brightspace.<br>**Lab 1** \| In Person<br>**A1 End** |
 |      | 12-Feb |                                        | Collecting and preparing data for AI                                   |       |
