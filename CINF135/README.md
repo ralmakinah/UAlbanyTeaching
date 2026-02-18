@@ -28,10 +28,10 @@ attention to your Brightspace course outline and announcements.**
 |      | 10-Feb |                                        | Different types of data                                                | **Quiz 1** on Brightspace.<br>**Lab 1** \| In Person<br>**A1 End** |
 |      | 12-Feb |                                        | Collecting and preparing data for AI                                   |       |
 | 5    | 17-Feb |                                        | Data ethics and privacy                                                | Showcase Milestone 1:<br>Showcase Project Selection (20 minutes) |
-|      | 19-Feb | **M3: Machine Learning**                | What is machine learning?                                              |       |
+|      | 19-Feb | **M3: Machine Learning**                | <a href="https://ralmakinah.github.io/UAlbanyTeaching/CINF135/Config/L4/L4-AIvsML_Part1.slides.html#/">What is machine learning?</a>                                              |       |
 | 6    | 24-Feb |                                        | Different types of machine learning                                    | **Quiz 2** on Brightspace.<br>**Lab 2** \| In Person<br>**A2 Start** |
-|      | 26-Feb |                                        | Common machine learning algorithms                                      |       |
-| 7    | 03-Mar |                                        | Evaluating machine learning models                                      |       |
+|      | 26-Feb |                                        | <a href="https://ralmakinah.github.io/UAlbanyTeaching/CINF135/Config/L4/L4-AIvsML_Part2.slides.html#/">Common machine learning algorithms</a>                                      |       |
+| 7    | 03-Mar |                                        | <a href="https://ralmakinah.github.io/UAlbanyTeaching/CINF135/Config/L4/L4-AIvsML_Part3.slides.html#/">Evaluating machine learning models</a>                                      |       |
 |      | 05-Mar | **M4: Deep Learning**                   | What is deep learning?                                                 | Showcase Milestone 2:<br>Showcase Poster Preparation (20 minutes)<br>**A2 End** |
 | 8    | 10-Mar |                                        | Neural networks                                                        | **Lab 3** \| In Person |
 |      | 12-Mar |                                        | Convolutional neural networks, recurrent neural networks               | **Quiz 3** on Brightspace.<br>**A3 Start** |
