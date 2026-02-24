@@ -18,34 +18,42 @@ or by appointment (refer to the Brightspace syllabus for the link)
 **\*\* This is a tentative schedule and subject to change. Please pay
 attention to your Brightspace course outline and announcements.**
 
-| Week | Date   | Module                                 | Topics                                                                 | Notes |
-|------|--------|----------------------------------------|------------------------------------------------------------------------|-------|
-| 1    | 22-Jan |                                        | Syllabus · Brightspace · GitHub · Labs · Showcase Review                |       |
-| 2    | 27-Jan | **M1: AI Foundations**                  | <a href="https://ralmakinah.github.io/UAlbanyTeaching/CINF135/Config/L1/L1-Intro.slides.html#/">Introduction, what is AI?</a>                                              |       |
-|      | 29-Jan |                                        | <a href="https://ralmakinah.github.io/UAlbanyTeaching/CINF135/Config/L2/L2_AI_History_Part1.slides.html#/">A brief history of AI, different types of AI</a>                           |       |
-| 3    | 03-Feb |                                        | <a href="https://ralmakinah.github.io/UAlbanyTeaching/CINF135/Config/L2/L2_AI_History_Part2.slides.html#/">The potential of AI</a>                                                    | **A1 Start** |
-| 4    | 05-Feb | **M2: Data**                            | <a href="https://ralmakinah.github.io/UAlbanyTeaching/CINF135/Config/L3/L3-Data.slides.html#/">The importance of data in AI</a>                                           |       |
-|      | 10-Feb |                                        | Different types of data                                                | **Quiz 1** on Brightspace.<br>**Lab 1** \| In Person<br>**A1 End** |
-|      | 12-Feb |                                        | Collecting and preparing data for AI                                   |       |
-| 5    | 17-Feb |                                        | Data ethics and privacy                                                | Showcase Milestone 1:<br>Showcase Project Selection (20 minutes) |
-|      | 19-Feb | **M3: Machine Learning**                | <a href="https://ralmakinah.github.io/UAlbanyTeaching/CINF135/Config/L4/L4-AIvsML_Part1.slides.html#/">What is machine learning?</a>                                              |       |
-| 6    | 24-Feb |                                        | Different types of machine learning                                    | **Quiz 2** on Brightspace.<br>**Lab 2** \| In Person<br>**A2 Start** |
-|      | 26-Feb |                                        | <a href="https://ralmakinah.github.io/UAlbanyTeaching/CINF135/Config/L4/L4-AIvsML_Part2.slides.html#/">Common machine learning algorithms</a>                                      |       |
-| 7    | 03-Mar |                                        | <a href="https://ralmakinah.github.io/UAlbanyTeaching/CINF135/Config/L4/L4-AIvsML_Part3.slides.html#/">Evaluating machine learning models</a>                                      |       |
-|      | 05-Mar | **M4: Deep Learning**                   | What is deep learning?                                                 | Showcase Milestone 2:<br>Showcase Poster Preparation (20 minutes)<br>**A2 End** |
-| 8    | 10-Mar |                                        | Neural networks                                                        | **Lab 3** \| In Person |
-|      | 12-Mar |                                        | Convolutional neural networks, recurrent neural networks               | **Quiz 3** on Brightspace.<br>**A3 Start** |
-| 9    | 17-Mar |                                        | **Spring Break**<br>Classes suspended                                  |       |
-|      | 19-Mar |                                        | **Spring Break**<br>Classes suspended                                  |       |
-| 10   | 24-Mar |                                        | Training and evaluating deep learning models                            |       |
-|      | 26-Mar | **M5: Robotic Process Automation (RPA)**| What is RPA? The benefits of RPA                                        | Showcase Milestone 3:<br>Upload your poster to My Shared Drive |
-| 11   | 31-Mar |                                        | How to implement RPA, RPA use cases                                     | Showcase Milestone 4:<br>Showcase Poster Checkpoint (20 minutes);<br>**Quiz 4** on Brightspace.<br>**A3 End** |
-|      | 02-Apr | **M6: Physical Robots**                 | What are physical robots? Different types of physical robots           |       |
-| 12   | 07-Apr |                                        | Programming physical robots, physical robot applications                | **Quiz 5** on Brightspace.<br>**Lab 4** \| In Person |
+| Week | Date   | Module                                  | Topics                                                                 | Notes |
+|------|--------|-----------------------------------------|------------------------------------------------------------------------|-------|
+| 1    | 22-Jan |                                         | Syllabus · Brightspace · GitHub · Labs · Showcase Review                |       |
+| 2    | 27-Jan | **M1: AI Foundations**                   | <a href="https://ralmakinah.github.io/UAlbanyTeaching/CINF135/Config/L1/L1-Intro.slides.html#/">Introduction, what is AI?</a> |       |
+|      | 29-Jan |                                         | <a href="https://ralmakinah.github.io/UAlbanyTeaching/CINF135/Config/L2/L2_AI_History_Part1.slides.html#/">A brief history of AI, different types of AI</a> |       |
+| 3    | 03-Feb |                                         | <a href="https://ralmakinah.github.io/UAlbanyTeaching/CINF135/Config/L2/L2_AI_History_Part2.slides.html#/">The potential of AI</a> | **A1 Start** |
+| 4    | 05-Feb | **M2: Data**                             | <a href="https://ralmakinah.github.io/UAlbanyTeaching/CINF135/Config/L3/L3-Data.slides.html#/">The importance of data in AI</a> |       |
+|      | 10-Feb |                                         | Different types of data                                                | **Quiz 1** on Brightspace.<br>**Lab 1** \| In Person<br>**A1 End** |
+|      | 12-Feb |                                         | Collecting and preparing data for AI                                   |       |
+| 5    | 17-Feb |                                         | Data ethics and privacy                                                | Showcase Milestone 1:<br>Showcase Project Selection (20 minutes) |
+|      | 19-Feb | **M3: Machine Learning**                 | <a href="https://ralmakinah.github.io/UAlbanyTeaching/CINF135/Config/L4/L4-AIvsML_Part1.slides.html#/">What is machine learning?</a> |       |
+| 6    | 24-Feb |                                         | Different types of machine learning                                    | **Quiz 2** on Brightspace.<br>**Lab 2** \| In Person<br>**A2 Start** |
+|      | 26-Feb |                                         | <a href="https://ralmakinah.github.io/UAlbanyTeaching/CINF135/Config/L4/L4-AIvsML_Part2.slides.html#/">Common machine learning algorithms</a> |       |
+| 7    | 03-Mar |                                         | <a href="https://ralmakinah.github.io/UAlbanyTeaching/CINF135/Config/L4/L4-AIvsML_Part3.slides.html#/">Evaluating machine learning models</a> |       |
+|      | 05-Mar | **M4: Deep Learning**                    | What is deep learning?                                                 | Showcase Milestone 2:<br>Showcase Poster Preparation (20 minutes)<br>**A2 End** |
+| 8    | 10-Mar |                                         | Neural networks                                                        | **Lab 3** \| In Person |
+|      | 12-Mar |                                         | Convolutional neural networks, recurrent neural networks               | **Quiz 3** on Brightspace.<br>**A3 Start** |
+| 9    | 17-Mar |                                         | **Spring Break**<br>Classes suspended                                  |       |
+|      | 19-Mar |                                         | **Spring Break**<br>Classes suspended                                  |       |
+| 10   | 24-Mar |                                         | Training and evaluating deep learning models                            |       |
+|      | 26-Mar | **M5: Robotic Process Automation (RPA)** | What is RPA? The benefits of RPA                                        | Showcase Milestone 3:<br>Upload your poster to My Shared Drive |
+| 11   | 31-Mar |                                         | How to implement RPA, RPA use cases                                     | Showcase Milestone 4:<br>Showcase Poster Checkpoint (20 minutes);<br>**Quiz 4** on Brightspace.<br>**A3 End** |
+|      | 02-Apr | **M6: Physical Robots**                  | What are physical robots? Different types of physical robots           |       |
+| 12   | 07-Apr |                                         | Programming physical robots, physical robot applications                | **Quiz 5** on Brightspace.<br>**Lab 4** \| In Person |
 |      | 09-Apr | **M7: Natural Language Processing (NLP)**| What is NLP? Common NLP tasks                                           |       |
-| 13   | 14-Apr |                                        | NLP algorithms                                                         |       |
-|      | 16-Apr |                                        | NLP use cases                                                          | **Quiz 6** on Brightspace. |
-                                                                                                       
+| 13   | 14-Apr |                                         | NLP algorithms                                                         |       |
+|      | 16-Apr |                                         | NLP use cases                                                          | **Quiz 6** on Brightspace. |
+| 14   | 21-Apr | **M8: Implementation of AI**             | Developing and deploying AI solutions                                   |       |
+|      | 23-Apr |                                         | AI project management, AI governance                                    | **Lab 5** \| In Person<br>**A4 Start** |
+| 15   | 28-Apr | **M9: The Future of AI**                 | Emerging trends in AI; ethical implications of AI                       | **Quiz 7** on Brightspace. |
+|      | 30-Apr |                                         | Showcase Day, All Students are expected to participate the Showcase with a Poster | (No regular class meeting)<br>**A4 End** |
+| 16   | 05-May |                                         | Makeup Session                                                          | Last day of Spring 2026 semester classes. |
+
+
+
+
 
 ## CEHC Showcase
 
