@@ -32,7 +32,7 @@ attention to your Brightspace course outline and announcements.**
 | 6    | 24-Feb |                                         | Different types of machine learning                                    | **Quiz 2** on Brightspace.<br>**Lab 2** \| In Person<br>**A2 Start** |
 |      | 26-Feb |                                         | <a href="https://ralmakinah.github.io/UAlbanyTeaching/CINF135/Config/L4/L4-AIvsML_Part2.slides.html#/">Common machine learning algorithms</a> |       |
 | 7    | 03-Mar |                                         | <a href="https://ralmakinah.github.io/UAlbanyTeaching/CINF135/Config/L4/L4-AIvsML_Part3.slides.html#/">Evaluating machine learning models</a> |       |
-|      | 05-Mar | **M4: Deep Learning**                    | What is deep learning?                                                 | Showcase Milestone 2:<br>Showcase Poster Preparation (20 minutes)<br>**A2 End** |
+|      | 05-Mar | **M4: Deep Learning**                    | <a href="https://ralmakinah.github.io/UAlbanyTeaching/CINF135/Config/L5/L5-DL_P1.slides.html#/">What is deep learning?</a>                                                 | Showcase Milestone 2:<br>Showcase Poster Preparation (20 minutes)<br>**A2 End** |
 | 8    | 10-Mar |                                         | Neural networks                                                        | **Lab 3** \| In Person |
 |      | 12-Mar |                                         | Convolutional neural networks, recurrent neural networks               | **Quiz 3** on Brightspace.<br>**A3 Start** <br> Tomorrow is the last day to register for the showcase|
 | 9    | 17-Mar |                                         | **Spring Break**<br>Classes suspended                                  |       |
