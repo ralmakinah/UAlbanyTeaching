@@ -38,7 +38,7 @@ attention to your Brightspace course outline and announcements.**
 | 9    | 17-Mar |                                         | **Spring Break**<br>Classes suspended                                  |       |
 |      | 19-Mar |                                         | **Spring Break**<br>Classes suspended                                  |       |
 | 10   | 24-Mar |                                         | <a href="https://ralmakinah.github.io/UAlbanyTeaching/CINF135/Config/L5/L5-DL_P3.slides.html#/">Training and evaluating deep learning models</a>                            |       |
-|      | 26-Mar | **M5: Robotic Process Automation (RPA)** | What is RPA? The benefits of RPA                                        | Showcase Milestone 3:<br>Upload your poster to My Shared Drive |
+|      | 26-Mar | **M5: Robotic Process Automation (RPA)** | <a href="https://ralmakinah.github.io/UAlbanyTeaching/CINF135/Config/L6/L6-RPAs.slides.html#/">What is RPA? The benefits of RPA</a>                                        | Showcase Milestone 3:<br>Upload your poster to My Shared Drive |
 | 11   | 31-Mar |                                         | How to implement RPA, RPA use cases                                     | Showcase Milestone 4:<br>Showcase Poster Checkpoint (20 minutes);<br>**Quiz 4** on Brightspace.<br>**A3 End** |
 |      | 02-Apr | **M6: Physical Robots**                  | What are physical robots? Different types of physical robots           |       |
 | 12   | 07-Apr |                                         | Programming physical robots, physical robot applications                | **Quiz 5** on Brightspace.<br>**Lab 4** \| In Person |
