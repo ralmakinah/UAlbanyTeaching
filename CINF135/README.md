@@ -42,7 +42,7 @@ attention to your Brightspace course outline and announcements.**
 | 11   | 31-Mar |                                         | How to implement RPA, RPA use cases                                     | Showcase Milestone 4:<br>Showcase Poster Checkpoint (20 minutes);<br>**Quiz 4** on Brightspace.<br>**A3 End** |
 |      | 02-Apr | **M6: Physical Robots**                  | <a href="https://ralmakinah.github.io/UAlbanyTeaching/CINF135/Config/L7/L7-Robot.slides.html#/">What are physical robots? Different types of physical robots</a>           |       |
 | 12   | 07-Apr |                                         | Programming physical robots, physical robot applications                | **Quiz 5** on Brightspace.<br>**Lab 4** \| In Person |
-|      | 09-Apr | **M7: Natural Language Processing (NLP)**| What is NLP? Common NLP tasks                                           |       |
+|      | 09-Apr | **M7: Natural Language Processing (NLP)**| <a href="https://ralmakinah.github.io/UAlbanyTeaching/CINF135/Config/L8/L8-NLP.slides.html#/">What is NLP? Common NLP tasks</a>                                           |       |
 | 13   | 14-Apr |                                         | NLP algorithms                                                         |       |
 |      | 16-Apr |                                         | NLP use cases                                                          | **Quiz 6** on Brightspace. |
 | 14   | 21-Apr | **M8: Implementation of AI**             | Developing and deploying AI solutions                                   |       |
