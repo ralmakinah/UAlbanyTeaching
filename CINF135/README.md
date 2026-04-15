@@ -43,7 +43,7 @@ attention to your Brightspace course outline and announcements.**
 |      | 02-Apr | **M6: Physical Robots**                  | <a href="https://ralmakinah.github.io/UAlbanyTeaching/CINF135/Config/L7/L7-Robot.slides.html#/">What are physical robots? Different types of physical robots</a>           |       |
 | 12   | 07-Apr |                                         | Programming physical robots, physical robot applications                | **Quiz 5** on Brightspace.<br>**Lab 4** \| In Person |
 |      | 09-Apr | **M7: Natural Language Processing (NLP)**| <a href="https://ralmakinah.github.io/UAlbanyTeaching/CINF135/Config/L8/L8-NLP.slides.html#/">What is NLP? Common NLP tasks</a>                                           |       |
-| 13   | 14-Apr |                                         | NLP algorithms                                                         |       |
+| 13   | 14-Apr |                                         | <a href="https://ralmakinah.github.io/UAlbanyTeaching/CINF135/Config/L8/L8-NLP-2.slides.html#/">NLP algorithms</a>                                                        |       |
 |      | 16-Apr |                                         | NLP use cases                                                          | **Quiz 6** on Brightspace. |
 | 14   | 21-Apr | **M8: Implementation of AI**             | Developing and deploying AI solutions                                   |       |
 |      | 23-Apr |                                         | AI project management, AI governance                                    | **Lab 5** \| In Person<br>**A4 Start** |
