@@ -45,7 +45,7 @@ attention to your Brightspace course outline and announcements.**
 |      | 09-Apr | **M7: Natural Language Processing (NLP)**| <a href="https://ralmakinah.github.io/UAlbanyTeaching/CINF135/Config/L8/L8-NLP.slides.html#/">What is NLP? Common NLP tasks</a>                                           |       |
 | 13   | 14-Apr |                                         | <a href="https://ralmakinah.github.io/UAlbanyTeaching/CINF135/Config/L8/L8-NLP-2.slides.html#/">NLP algorithms</a>                                                        |       |
 |      | 16-Apr |                                         | NLP use cases                                                          | **Quiz 6** on Brightspace. |
-| 14   | 21-Apr | **M8: Implementation of AI**             | <a href=""> Developing and deploying AI solutions</a>                                   |       |
+| 14   | 21-Apr | **M8: Implementation of AI**             | <a href="https://ralmakinah.github.io/UAlbanyTeaching/CINF135/Config/L9/L9-AI_App+Future.slides.html#/"> Developing and deploying AI solutions</a>                                   |       |
 |      | 23-Apr |                                         | AI project management, AI governance                                    | **Lab 5** \| In Person<br>**A4 Start** |
 | 15   | 28-Apr | **M9: The Future of AI**                 | Emerging trends in AI; ethical implications of AI                       | **Quiz 7** on Brightspace. <br> + Labs Makeup Session  |
 |      | 30-Apr |                                         | Showcase Day, All Students are expected to participate the Showcase with a Poster | (No regular class meeting)<br>**A4 End** |
