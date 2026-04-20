@@ -47,8 +47,8 @@ attention to your Brightspace course outline and announcements.**
 |      | 16-Apr |                                         | NLP use cases                                                          | **Quiz 6** on Brightspace. |
 | 14   | 21-Apr | **M8: Implementation of AI**             | Developing and deploying AI solutions                                   |       |
 |      | 23-Apr |                                         | AI project management, AI governance                                    | **Lab 5** \| In Person<br>**A4 Start** |
-| 15   | 28-Apr | **M9: The Future of AI**                 | Emerging trends in AI; ethical implications of AI                       | **Quiz 7** on Brightspace. |
-|      | 30-Apr |                                         | Showcase Day, All Students are expected to participate the Showcase with a Poster <br> + Labs Makeup Session  | (No regular class meeting)<br>**A4 End** |
+| 15   | 28-Apr | **M9: The Future of AI**                 | Emerging trends in AI; ethical implications of AI                       | **Quiz 7** on Brightspace. <br> + Labs Makeup Session  |
+|      | 30-Apr |                                         | Showcase Day, All Students are expected to participate the Showcase with a Poster | (No regular class meeting)<br>**A4 End** |
 | 16   | 05-May |                                         |  Last day of Spring 2026 semester classes.                              | No regular class meeting <br> I am attending the IEEE CAI Conference |
 
 
